@@ -1,1 +1,2 @@
 asjlkl
+增加功能 add func()
